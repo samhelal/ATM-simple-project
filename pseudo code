@@ -1,0 +1,13 @@
+ /* ********pseudo code*********
+ *  displaye wellcome messege 
+ * if the password true open switch else displaye messege try again or exit 
+ * displaye choises (amount - deposite - withdrow - exit )
+ *  Enter choice number (cin)
+ * if the choise not 4 
+ * switch the 4 choices 
+ * 1 - display the amount 
+ * 2 - cin deposite number and add it to the amounte 
+ * 3 - cin withdrow number and minus it from amount 
+ * 4 - make the coice 4 and exit from looop 
+ * display the thanks full message */
+ 
